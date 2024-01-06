@@ -63,6 +63,9 @@ nav ul{
     max-width: 1140px;
     margin: 0 auto;
 }
+.section{
+    margin-top: 130px;
+}
     
 .About{
     margin-top: 130px;
@@ -73,8 +76,9 @@ nav ul{
 }
 .section-titel{
     font-weight: 700;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     font-size: 35px;
+    text-align: center;
 
 }
 .section-dp{
@@ -95,4 +99,26 @@ nav ul{
     font-weight: 700;
     font-size: 20px;
     color: #474747;
+}
+.what-i-do{
+    margin-top: 130px;
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.slills{
+    background: #FFFFFF;
+    box-shadow: 0 6px 50px #0000000f;
+    border-radius: 5px;
+    padding: 30px;
+}
+.skills-titel{
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 30px;
+    margin-bottom: 20px;
+}
+.skills-dp{
+    color: #757575;
 }
